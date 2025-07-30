@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **R, ASP.NET core MVC**
 
+- I love to code in python.
+
 - 📫 How to reach me **maitreyeebhosale2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
