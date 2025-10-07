@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! 👋, I'm Maitreyee Bhosale</h1>
 <h3 align="center">I am a 4th year Artificial Intelligence and Data Science Student. I am passionate about learning and creating Machine learning projects</h3>
 
-- 🔭 I’m currently working on **ShieldIQ**
+- 🔭 I’m currently working on **Accident Risk Heatmap & Emergency Alerting System**
 
-- 🌱 I’m currently learning **R, ASP.NET core MVC**
+- 🌱 I’m currently learning **Data Visualization and OCI Foundations **
 
-- I love to code in python.
+- I love to code in python and SQL.
 
 - 📫 How to reach me **maitreyeebhosale2004@gmail.com**
 
