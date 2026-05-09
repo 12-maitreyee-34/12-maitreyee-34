@@ -11,9 +11,9 @@ AI & DS 4th Year Student | ML Enthusiast | Backend Developer
 Turning ideas into intelligent systems 🚀
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=12-maitreyee-34&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
