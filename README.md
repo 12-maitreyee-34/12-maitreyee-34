@@ -1,20 +1,124 @@
-<h1 align="center">Hello World! 👋, I'm Maitreyee Bhosale</h1>
-<h3 align="center">I am a 4th year Artificial Intelligence and Data Science Student. I am passionate about learning and creating Machine learning projects</h3>
+```md
+<h1 align="center">
+print("Hello World, I'm Maitreyee Bhosale 👋")
+</h1>
 
-- 🔭 I’m currently working on **Accident Risk Heatmap & Emergency Alerting System**
+<h3 align="center">
+AI & DS 4th Year Student | ML Enthusiast | Backend Developer
+</h3>
 
-- 🌱 I’m currently learning **Data Visualization and OCI Foundations **
-
-- I love to code in python and SQL.
-
-- 📫 How to reach me **maitreyeebhosale2004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/maitreyee-bhosale-0a26a7252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maitreyee-bhosale-0a26a7252/" height="30" width="40" /></a>
+<p align="center">
+Turning ideas into intelligent systems 🚀
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=12-maitreyee-34&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 4th Year Artificial Intelligence & Data Science Student
+- 💻 Backend Developer with experience in FastAPI & PostgreSQL
+- 🤖 Passionate about Machine Learning and Generative AI
+- 🌱 Currently strengthening backend development concepts
+- 🧠 Deep diving into Agentic AI & RAG systems
+- ⚡ I enjoy building ML projects with fun yet real-world use cases
+
+---
+
+## 🔭 Current Focus
+
+### 📚 EasyPaper
+A RAG-based project focused on intelligent document understanding and retrieval.
+
+Currently exploring:
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI workflows
+- Backend scalability
+- System design concepts
+
+---
+
+## 💼 Experience
+
+### Backend Developer Intern — Durwankur AI Labs Pvt Ltd
+
+- Worked on backend development using FastAPI
+- Built and integrated APIs
+- Worked with PostgreSQL databases
+- Used Docker for containerization
+- Contributed to AI-powered backend systems
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+- Python
+- SQL
+- Java
+
+### ⚙️ Backend Development
+- FastAPI
+- REST APIs
+- Redis
+
+### 🗄 Databases
+- PostgreSQL
+- MySQL
+- pgAdmin4
+- MySQL Workbench
+
+### 🤖 AI / ML
+- Machine Learning
+- Generative AI
+- TensorFlow
+- OpenCV
+- NumPy
+- Pandas
+
+### 📊 Data & Visualization
+- Power BI
+- Data Analytics
+
+### 🧰 Tools & Technologies
+- Docker
+- Git
+- GitHub
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=12-maitreyee-34&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12-maitreyee-34&layout=compact&theme=default" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/maitreyee-bhosale-0a26a7252/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🎯 Career Goal
+
+Aspiring Data Scientist passionate about building intelligent systems that solve real-world problems using AI and backend technologies.
+
+---
+
+## ⚡ Fun Fact
+
+I love transforming ideas into AI-powered applications that are both useful and impactful 🚀
+```
