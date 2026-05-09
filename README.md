@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">
 print("Hello World, I'm Maitreyee Bhosale 👋")
 </h1>
@@ -121,4 +121,4 @@ Aspiring Data Scientist passionate about building intelligent systems that solve
 ## ⚡ Fun Fact
 
 I love transforming ideas into AI-powered applications that are both useful and impactful 🚀
-```
+
